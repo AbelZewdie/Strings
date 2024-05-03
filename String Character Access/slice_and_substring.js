@@ -30,3 +30,11 @@ console.log(s.substring(16, 13)) // "s u" because substring ቦታ ስለሚያ�
 console.log(s.substring(-8, -4)) // "" ሁለቱንም እንደ 0 ነው የሚያያችው።
 console.log(s.substring(-8, 4)) // "The " ከ0 እስከ 4 
 console.log(s.substring(8, -4)) // "The morn" because -4 እንደ 0 ነው የሚያየው ከዛ ቦታ ያቀያይራችዋል።
+
+console.log(" ")
+//SUBSTIR
+//string.subtir() it was the first but the least useful.
+
+console.log(s.substr(12))
+
+

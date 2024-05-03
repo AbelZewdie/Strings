@@ -1,5 +1,5 @@
 
-const abel = "Abel is the best";
+const abel = "Abel is the best.";
 
 
 console.log(abel.charAt(5)) //i
